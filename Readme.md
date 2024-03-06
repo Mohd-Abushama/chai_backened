@@ -1,4 +1,4 @@
 # chai aur backend series 
 
-This is my hands on sessation with backend with javascript 
+"I am currently gaining practical experience in backend development using JavaScript."
 
